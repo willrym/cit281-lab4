@@ -5,3 +5,5 @@
 4. Add git repo, exclude node_modules folder from git, make commits
 5. Fix MIME error, test, and commit
 6. Add a second route with query parameters, test, and commit
+
+![Sal](https://static.wikia.nocookie.net/impracticaljokers/images/d/d2/Sal.png/revision/latest/scale-to-width-down/361?cb=20190604013345)
